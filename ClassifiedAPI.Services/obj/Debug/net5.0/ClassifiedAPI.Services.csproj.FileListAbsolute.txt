@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\bin\Debug\net5.0\ClassifiedAPI.Services.deps.json
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\bin\Debug\net5.0\ClassifiedAPI.Services.dll
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\bin\Debug\net5.0\ref\ClassifiedAPI.Services.dll
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\bin\Debug\net5.0\ClassifiedAPI.Services.pdb
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\obj\Debug\net5.0\ClassifiedAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\obj\Debug\net5.0\ClassifiedAPI.Services.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\obj\Debug\net5.0\ClassifiedAPI.Services.AssemblyInfo.cs
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\obj\Debug\net5.0\ClassifiedAPI.Services.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\obj\Debug\net5.0\ClassifiedAPI.Services.dll
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\obj\Debug\net5.0\ref\ClassifiedAPI.Services.dll
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\obj\Debug\net5.0\ClassifiedAPI.Services.pdb
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\obj\Debug\net5.0\ClassifiedAPI.Services.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\bin\Debug\net5.0\ClassifiedAPI.DataAccess.dll
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\bin\Debug\net5.0\ClassifiedAPI.Models.dll
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\bin\Debug\net5.0\ClassifiedAPI.DataAccess.pdb
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\bin\Debug\net5.0\ClassifiedAPI.Models.pdb
+C:\Users\user\source\repos\ClassifiedAPI\ClassifiedAPI.Services\obj\Debug\net5.0\ClassifiedAPI.Services.csproj.CopyComplete
