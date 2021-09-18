@@ -11,17 +11,17 @@ namespace ClassifiedAPI.Models.Models.Vehicle
     {
         public int Id { get; set; }
         [Required]
-        public VehicleMake Make { get; set; }
+        public string Make { get; set; }
         [Required]
         public string Model { get; set; }
         [Required]
-        public VehicleType Type { get; set; }
+        public string Type { get; set; }
         [Required]
-        public VehicleCondition Condition { get; set; }
+        public string Condition { get; set; }
         [Required]
-        public VehicleTransmission Transmission { get; set; }
+        public string Transmission { get; set; }
         [Required]
-        public VehicleFuelType FuelType { get; set; }
+        public string FuelType { get; set; }
         [Required]
         public int Milage { get; set; }
         [Required]

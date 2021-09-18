@@ -11,17 +11,17 @@ namespace ClassifiedAPI.Models.Dtos
     {
         public int Id { get; set; }
     
-        public VehicleMake Make { get; set; }
+        public string Make { get; set; }
      
         public string Model { get; set; }
      
-        public VehicleType Type { get; set; }
+        public string Type { get; set; }
  
-        public VehicleCondition Condition { get; set; }
+        public string Condition { get; set; }
      
-        public VehicleTransmission Transmission { get; set; }
+        public string Transmission { get; set; }
     
-        public VehicleFuelType FuelType { get; set; }
+        public string FuelType { get; set; }
  
         public int Milage { get; set; }
      
